@@ -2,3 +2,4 @@ requests
 openai
 pylint
 flake8
+os
