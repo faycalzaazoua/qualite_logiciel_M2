@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/zah/Documents/SCHOOL/M2/qualité logiciel/env/bin/python" "$0" "$@"
-' '''
+#!/Users/zah/Desktop/qualite_logiciel_M2/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
