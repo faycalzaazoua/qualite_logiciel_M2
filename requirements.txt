@@ -1,0 +1,4 @@
+requests
+openai
+pylint
+flake8
