@@ -1,4 +1,4 @@
-import requests
+import requests 
 from config import GITHUB_TOKEN, OWNER, REPO, PR_NUMBER
 
 # Fonction pour récupérer les informations de la PR depuis l'API GitHub
